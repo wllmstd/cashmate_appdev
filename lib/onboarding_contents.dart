@@ -12,12 +12,12 @@ class OnboardingContents {
 
 List<OnboardingContents> contents = [
   OnboardingContents(
-    title: "CashMate",
+    title: "CashLens",
     image: "assets/images/image1.png",
     desc: "The future of currency interaction.",
   ),
   OnboardingContents(
-    title: "Welcome to CashMate!",
+    title: "Welcome to CashLens!",
     image: "assets/images/image2.png",
     desc:
         "Unlock the Power of Your Pocket with CashMate: Where Money Meets Innovation!",
